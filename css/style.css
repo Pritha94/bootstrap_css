@@ -1,0 +1,30 @@
+.accordion {
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-style: italic;
+}
+
+.accordion-item {
+    font-weight: 800;
+}
+
+.bg {
+    background-color: aqua;
+}
+
+.alert {
+    border: 2px solid;
+}
+
+.alert-heading {
+    color: red;
+}
+
+.pre {
+    color: aliceblue;
+}
+
+.btn-outline-primary {
+    background-color: blueviolet;
+}
